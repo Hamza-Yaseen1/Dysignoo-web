@@ -46,6 +46,9 @@ nav ul li a{
   padding: 7px 13px;
   border-radius: 3px;
   text-transform: uppercase;
+} 
+label:hover{
+  background-color: #16154E;
 }
 a.active,a:hover{
   background: rgb(243, 52, 116);
